@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShaoXiang.iml" filepath="$PROJECT_DIR$/ShaoXiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aroute/aroute.iml" filepath="$PROJECT_DIR$/aroute/aroute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter-annotation/arouter-annotation.iml" filepath="$PROJECT_DIR$/arouter-annotation/arouter-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter-api/arouter-api.iml" filepath="$PROJECT_DIR$/arouter-api/arouter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter-compiler/arouter-compiler.iml" filepath="$PROJECT_DIR$/arouter-compiler/arouter-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contexthook/contexthook.iml" filepath="$PROJECT_DIR$/contexthook/contexthook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/controller.iml" filepath="$PROJECT_DIR$/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_android_support/lib_android_support.iml" filepath="$PROJECT_DIR$/lib_android_support/lib_android_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_fragmentation/lib_fragmentation.iml" filepath="$PROJECT_DIR$/lib_fragmentation/lib_fragmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_glide/lib_glide.iml" filepath="$PROJECT_DIR$/lib_glide/lib_glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_gson/lib_gson.iml" filepath="$PROJECT_DIR$/lib_gson/lib_gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_hiPermission/lib_hiPermission.iml" filepath="$PROJECT_DIR$/lib_hiPermission/lib_hiPermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_okgo/lib_okgo.iml" filepath="$PROJECT_DIR$/lib_okgo/lib_okgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_okhttp/lib_okhttp.iml" filepath="$PROJECT_DIR$/lib_okhttp/lib_okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_ormlite/lib_ormlite.iml" filepath="$PROJECT_DIR$/lib_ormlite/lib_ormlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_xinge/lib_xinge.iml" filepath="$PROJECT_DIR$/lib_xinge/lib_xinge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_android_support/midlayer_android_support.iml" filepath="$PROJECT_DIR$/midlayer_android_support/midlayer_android_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_imageutils/midlayer_imageutils.iml" filepath="$PROJECT_DIR$/midlayer_imageutils/midlayer_imageutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_localdata/midlayer_localdata.iml" filepath="$PROJECT_DIR$/midlayer_localdata/midlayer_localdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_net/midlayer_net.iml" filepath="$PROJECT_DIR$/midlayer_net/midlayer_net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_permission/midlayer_permission.iml" filepath="$PROJECT_DIR$/midlayer_permission/midlayer_permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_push/midlayer_push.iml" filepath="$PROJECT_DIR$/midlayer_push/midlayer_push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midlayer_unclassified/midlayer_unclassified.iml" filepath="$PROJECT_DIR$/midlayer_unclassified/midlayer_unclassified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginapp/pluginapp.iml" filepath="$PROJECT_DIR$/pluginapp/pluginapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
